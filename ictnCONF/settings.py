@@ -28,9 +28,10 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    'ictnklc.org',
-    'www.ictnklc.org',
-    'http://ictnklc.org',
+    'test.ictnklc.org',
+    'www.test.ictnklc.org',
+    'http://test.ictnklc.org',
+    '139.59.45.199',
 ]
 
 
